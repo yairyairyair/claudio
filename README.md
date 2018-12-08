@@ -1,6 +1,3 @@
-# Compozart
+# Claudio
 
-AI that generate music sheets
-
-* Input - randomness
-* Output - music sheets
+Plays note sheets
